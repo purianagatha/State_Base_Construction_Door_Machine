@@ -1,0 +1,14 @@
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\bin\Debug\net8.0\DoorMachine.exe
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\bin\Debug\net8.0\DoorMachine.deps.json
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\bin\Debug\net8.0\DoorMachine.runtimeconfig.json
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\bin\Debug\net8.0\DoorMachine.dll
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\bin\Debug\net8.0\DoorMachine.pdb
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\DoorMachine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\DoorMachine.AssemblyInfoInputs.cache
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\DoorMachine.AssemblyInfo.cs
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\DoorMachine.csproj.CoreCompileInputs.cache
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\DoorMachine.dll
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\refint\DoorMachine.dll
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\DoorMachine.pdb
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\DoorMachine.genruntimeconfig.cache
+D:\Ngoding\C#\tpmodul4_1302223019\2\DoorMachine\obj\Debug\net8.0\ref\DoorMachine.dll
